@@ -1,0 +1,49 @@
+.container {
+  margin-left: 40%;
+}
+h1 {
+  font-size: 50px;
+  color: #2e982b;
+}
+input {
+  height: 35px;
+  width: 500px;
+  border-radius: 16px;
+  border-right: 30px;
+  padding-left: 10px;
+  margin-left: -41px;
+  margin-right: 30px;
+  margin-bottom: 80px;
+}
+.addBtn {
+  height: 35px;
+  width: 90px;
+  border-radius: 16px;
+}
+.task {
+  height: 40px;
+  width: 650px;
+  border-radius: 5px;
+  border-bottom: 2px black solid;
+  border-left: 2px black solid;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  margin-left: -100px;
+  padding-top: 2px;
+  position: relative;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  font-size: 20px;
+  background-color: #63ba60;
+}
+.remove 
+{
+  margin-left:93%;
+  position: absolute;
+}
+.remove {
+  border: 1px rgb(109, 100, 100) solid;
+  border-radius: 50%;
+  background-color: rgb(206, 194, 194);
+}
